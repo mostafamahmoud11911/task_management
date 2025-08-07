@@ -13,6 +13,11 @@ This project provides a RESTful API that allows users to:
 
 ---
 
+## Technologies Used
+
+express sequelize joi jsonwebtoken bcrypt dotenv
+
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
